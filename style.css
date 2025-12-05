@@ -1,0 +1,37 @@
+*{
+  padding: 0;
+  margin: 0;
+
+}
+#nav{
+  background-color: black;
+  height: 60px;
+  color: aliceblue;
+  
+
+}
+ #logo{
+  color: #f08004; 
+  font-size: px;
+}
+button{
+   background-color: #f08004; 
+   color: white;
+}
+a{
+  margin-right: 200px;
+}
+.contentarea{
+  height: 100px;
+  width:100px;
+  border: 2px solid black;
+  display: inline-block;
+}
+footer{
+  background-color: black;
+  text-align: center;
+  color: aliceblue;
+}
+#content{
+  height: 700px;
+}
